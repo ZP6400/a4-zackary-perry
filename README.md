@@ -1,5 +1,6 @@
-# Black Hole Boogie - CS4241 Assignment 4
+## Black Hole Boogie - CS4241 A4
 
+Zackary Perry
 https://a4-zackary-perry.onrender.com
 
 This project contains a small game titled Black Hole Boogie, in which the user needs to press one of four keys as fast as they can before a ball gets sucked up by the black holes surrounding it. Building upon the features included in Assignment 3, the client-side data handling and interface have been refactored to use Svelte components instead of vanilla JavaScript. The existing authentication system, profile storage, Bootstrap 5 styling, and game mechanics remain the same. The only changes made were to the score submission form and the user records table, which were re-implemented using Svelte 5 and bundled with Vite.
