@@ -147,14 +147,14 @@ window.addEventListener('DOMContentLoaded', () => {
     document.querySelectorAll('input[name="difficulty"]').forEach(r => r.disabled = false)
     
     ball.style.transition = 'none'
-    ball.style.top = '115px'
+    ball.style.top = '160px'
     ball.style.left = '50%'
     holes.forEach(h => h.classList.remove('targeted'))
 
     window.dispatchEvent(new CustomEvent('game-over', {
 
       detail: {
-        
+
         score: score,
         duration: Math.max(duration, 1)
       }
