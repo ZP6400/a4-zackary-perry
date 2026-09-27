@@ -1,17 +1,3 @@
-## Black Hole Boogie - CS4241 A3
-
-Zackary Perry
-https://a4-zackaryperry.onrender.com/
-
-This project contains a small game titled Black Hole Boogie, in which the user needs to press one of four keys as fast as they can before a ball gets sucked up by the black holes surrounding it. Building upon the features included in Assignment 3, 
-
-Include a very brief summary of your project here and what you changed / added to assignment #3. Briefly (3–4 sentences) answer the following question: did the new technology improve or hinder the development experience?
-
-Unlike previous assignments, this assignment will be solely graded on whether or not you successfully complete it. Partial credit will be generously given.
-
-
-
-
 # Black Hole Boogie - CS4241 Assignment 4
 
 https://a4-zackary-perry.onrender.com
